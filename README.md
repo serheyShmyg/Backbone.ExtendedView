@@ -10,7 +10,7 @@ Additional method for backbone view;
 - renderChildView
 - serializeData
 
-Data for template you can path into `data` param.
+Data for template you can pass into `data` param.
 ```javascript
 var View = Backbone.ExtendedView.extend({
     data: {}
